@@ -10,7 +10,7 @@
  */
 function add(num1, num2) {
   console.log(num1, num2);
-  
+
   return num1 + num2;
 }
 
@@ -22,7 +22,7 @@ function add(num1, num2) {
  */
 function minus(num1, num2) {
   console.log(num1, num2);
-  
+
   return num1 - num2;
 }
 
@@ -34,7 +34,7 @@ function minus(num1, num2) {
  */
 function multi(num1, num2) {
   console.log(num1, num2);
-  
+
   return num1 * num2;
 }
 
@@ -46,6 +46,8 @@ function multi(num1, num2) {
  */
 function division(num1, num2) {
   console.log(num1, num2);
-  
+
   return num1 / num2;
 }
+
+console.log(Math.random());
