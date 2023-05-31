@@ -51,3 +51,4 @@ function division(num1, num2) {
 }
 
 console.log(Math.random());
+console.log(Date.now());
