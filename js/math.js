@@ -23,3 +23,13 @@ function minus(num1, num2) {
   console.log(num1, num2);
   return num1 - num2;
 }
+
+/**
+ * 第3次 添加乘法函数
+ * @param {*} num1 数字1
+ * @param {*} num2 数字2
+ * @returns 两数乘积
+ */
+function multi(num1, num2) {
+  return num1 * num2;
+}
