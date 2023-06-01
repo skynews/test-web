@@ -8,3 +8,6 @@ console.log(`第2次提交：`, 2);
 console.log("git2提交", Date.now());
 // 第4次提交
 console.log("git1提交", 4);
+
+// 第5次提交,skynews添加
+console.log("第5次提交,skynews添加", 5);
